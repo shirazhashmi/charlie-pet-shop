@@ -1,0 +1,71 @@
+[
+  {
+    "src": "media-08.jpeg",
+    "title": "Food, toys & everyday care",
+    "category": "Pet essentials",
+    "type": "image"
+  },
+  {
+    "src": "media-05.jpeg",
+    "title": "Cosy corners & accessories",
+    "category": "Pet essentials",
+    "type": "image"
+  },
+  {
+    "src": "media-01.jpeg",
+    "title": "A very good shopping companion",
+    "category": "Pet moments",
+    "type": "image"
+  },
+  {
+    "src": "media-07.mp4",
+    "title": "German Shepherd in the garden",
+    "category": "Pet moments",
+    "type": "video",
+    "poster": "media-07.jpg"
+  },
+  {
+    "src": "media-04.jpeg",
+    "title": "Three happy shopping buddies",
+    "category": "Pet moments",
+    "type": "image"
+  },
+  {
+    "src": "media-06.jpeg",
+    "title": "A little pet-shop adventure",
+    "category": "Pet moments",
+    "type": "image"
+  },
+  {
+    "src": "media-10.mp4",
+    "title": "A puppy moment",
+    "category": "Pet moments",
+    "type": "video",
+    "poster": "media-10.jpg"
+  },
+  {
+    "src": "media-02.jpeg",
+    "title": "Exploring pet essentials together",
+    "category": "Pet moments",
+    "type": "image"
+  },
+  {
+    "src": "media-03.jpeg",
+    "title": "A feline shopping companion",
+    "category": "Pet moments",
+    "type": "image"
+  },
+  {
+    "src": "media-09.mp4",
+    "title": "A quick garden hello",
+    "category": "Pet moments",
+    "type": "video",
+    "poster": "media-09.jpg"
+  },
+  {
+    "src": "shop-poster.jpeg",
+    "title": "Welcome to Charlie Pet Shop",
+    "category": "Shop & updates",
+    "type": "image"
+  }
+]
